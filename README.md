@@ -10,3 +10,4 @@ For Python dependencies needed. Just run `pip install -r requirements.txt` in th
 Here are a few snippets examples.
 
 - create_new_role.py: creates a new IAM role if it does not already exists with the required policy.
+- copy_over_env_variables_ebs.py:  It copy ENV variables from source to destination
